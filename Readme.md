@@ -1,1 +1,1 @@
-Web pages for my websites
+Web pages for my personal blog
